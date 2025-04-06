@@ -11,7 +11,7 @@ to my personal GitHub profile! 🥳
 </div>
 
 <h3 align="center">
-<a href="https://www.linkedin.com/in/arahsafari">Visit my linkedin page for more info about me
+<a href="https://safari.dkocok.in">Visit my personal page for more info about me
 <img src="https://github.com/arahsafari/arahsafari/raw/main/img/website.gif" alt="Visit homepage" align="center">
 </a>
 </h3>
