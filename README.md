@@ -19,8 +19,8 @@ to my personal GitHub profile! 🥳
 <hr>
 
 <div align="center">
-<p>You can write something nice in my guest book:</p>
-<a href="https://github.com/arahsafari/arahsafari/issues"><img src="https://github.com/arahsafari/arahsafari/raw/main/img/guestbook.gif" alt="Guest book" align="center"></a>
+<p>If you're wondering why I'm not very active on github lately, it's because I'm working on gitlab: https://gitlab.com/arahsafari</p>
+<img src="https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/https://contra-psi.vercel.app/?githubUsername=arahsafari&gitlabUsername=arahsafari">
 </div>
 
 <hr>
